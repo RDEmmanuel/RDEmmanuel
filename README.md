@@ -1,3 +1,3 @@
--                                                                       👋 Hola, soy Emmanuel
+- 👋 Hola, soy Emmanuel
 - 💬 Tengo 26 años
 - 🌱 Soy estudiante de la carrera Licenciatura en Sistemas de Información
