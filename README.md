@@ -1,19 +1,19 @@
 <div align="center"> 
-  <h1>Hola 👋, Soy Emmanuel Ruiz Diaz</h1>   
+  <h1>Hola 👋 Soy Emmanuel Ruiz Diaz</h1>   
 </div>
 <div>
 
   - 📚 Soy estudiante de la carrera Licenciatura en Sistemas de Información 
 
-  - 🌱 I’m currently learning **Data Bases**
+  - 🌱 Aprendiendo actualmente **Bases de Datos**
  
   - 📬 Contacto **rdemmanuel19@gmail.com**
 
 </div>
 <div align="center">
   <a href="https://github.com/RDEmmanuel">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=FalkFranco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalkFranco&layout=compact&langs_count=7&theme=algolia&"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=RDEmmanuel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEmmanuel&layout=compact&langs_count=7&theme=algolia&"/>
 </div>
   
   
