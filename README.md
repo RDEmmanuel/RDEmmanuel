@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>Hola 👋 Soy Emmanuel Ruiz Diaz</h1>   
+  <h2>Hola 👋 mi nombre es Emmanuel Ruiz Diaz</h2>   
 </div>
 <div>
 
