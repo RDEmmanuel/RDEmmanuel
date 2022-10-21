@@ -4,8 +4,6 @@
 <div>
 
   - 📚 Soy estudiante de la carrera Licenciatura en Sistemas de Información 
-
-  - 🌱 Aprendiendo actualmente **React**
  
   - 📬 Contacto **rdemmanuel19@gmail.com**
 
