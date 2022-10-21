@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Hola mi nombre es Emmanuel Ruiz Diaz</h1>
+ <h1> Hola👋 mi nombre es Emmanuel Ruiz Diaz</h1>
   </div>
 
   - 📚 Soy estudiante de la carrera Licenciatura en Sistemas de Información 
@@ -21,6 +21,7 @@
   <img align="center" alt="RDEmmanuel-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="RDEmmanuel-Tailwindcss" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="RDEmmanuel-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ <img align="center" alt="RDEmmanuel-Bootstrap" height="50" width="60" src="https://github.com/file-icons/DevOpicons/blob/master/svg/msql-server.svg" />
                   
 </div> <br> 
   
