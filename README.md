@@ -1,5 +1,5 @@
 <div align="center">
-  ## Hola mi nombre es Emmanuel Ruiz Diaz
+ <h1> Hola mi nombre es Emmanuel Ruiz Diaz</h1>
   </div>
 
   - 📚 Soy estudiante de la carrera Licenciatura en Sistemas de Información 
