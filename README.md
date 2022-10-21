@@ -1,4 +1,4 @@
-## Hola mi nombre es Emmanuel Ruiz Diaz 👨
+## Hola mi nombre es Emmanuel Ruiz Diaz
 
   - 📚 Soy estudiante de la carrera Licenciatura en Sistemas de Información 
  
