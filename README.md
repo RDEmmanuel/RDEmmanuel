@@ -21,7 +21,7 @@
   <img align="center" alt="RDEmmanuel-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="RDEmmanuel-Tailwindcss" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="RDEmmanuel-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- <img align="center" alt="RDEmmanuel-Bootstrap" height="50" width="60" src="https://github.com/file-icons/DevOpicons/blob/master/svg/msql-server.svg" />
+ <img align="center" alt="RDEmmanuel-Bootstrap" height="50" width="60" src="https://github.com/vorillaz/devicons/blob/master/!SVG/msql_server.svg" />
                   
 </div> <br> 
   
